@@ -44,5 +44,18 @@ To analyze different aspects of the e-commerce business and generate data-driven
 - Excel  
 - Tableau  
 
+## Dashboard Previews
+
+### Amazon Sales & Customer Behavior Dashboard
+![Amazon Dashboard](amazon_dashboard.png)
+
+### Olist E-commerce Delivery & Operations Dashboard
+![Olist Dashboard](olist_dashboard.png)
+
+### Walmart Sales Trends & Forecasting Dashboard
+![Walmart Sales_Dashboard](walmart_sales_dashboard.png)
+![Walmart Sales_Forecasting](walmart_sales_forecasting.png)
+
+
 # Outcome
 This project improved understanding of real-world e-commerce systems and strengthened skills in data analysis, visualization, and insight generation using industry datasets.
